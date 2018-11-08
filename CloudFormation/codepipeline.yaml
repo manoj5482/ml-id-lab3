@@ -3,7 +3,7 @@ Description: >
   CloudFormation for Sagemaker devops.
 Parameters:
   Email:
-    Description: The email address where CodePipeline sends pipeline notifications
+    Description: The email  address where CodePipeline sends pipeline notifications
     Type: String
     MinLength: 1
   GitHubToken:
